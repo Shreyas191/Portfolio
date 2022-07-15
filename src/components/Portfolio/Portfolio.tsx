@@ -33,6 +33,7 @@ export function Portfolio() {
             <footer>
               <ul className="tech-list">
                 <li>Wordpress</li>
+                <li>WooCommerce</li>
               </ul>
             </footer>
           </div>
@@ -84,7 +85,6 @@ export function Portfolio() {
             <footer>
               <ul className="tech-list">
                 <li>Wordpress</li>
-                <li>WooCommerce</li>
               </ul>
             </footer>
           </div>
