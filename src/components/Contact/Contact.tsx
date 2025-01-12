@@ -10,18 +10,18 @@ export function Contact(){
     <Container id="contact">
       <header>
         <h2>Contact</h2>
-        <p>Ready to get started on your project? </p>
-        <p>Contact me now for a Free consultation.</p>
+        {/* <p>Ready to get started on your project? </p>
+        <p>Contact me now for a Free consultation.</p> */}
       </header>
       <div className="contacts">
         <div>
-        <a href="mailto:Hello@vinayaksingh.com"><img src={emailIcon} alt="Email" /></a> 
-          <a href="mailto:Hello@vinayaksingh.com">Hello@vinayaksingh.com</a>
+          <a href="mailto:shreyaskaldate02@gmail.com"><img src={emailIcon} alt="Email" /></a> 
+          <a href="mailto:shreyaskaldate02@gmail.com">shreyaskaldate02@gmail.com</a>
         </div>
         <div>
-        <a href="tel:+919630576848"><img src={phoneIcon} alt="Phone No" /></a>
-          <a href="tel:+919630576848">(+91) 9630576848</a>
-        </div>  
+          <a href="mailto:shreyaskaldate19@gmail.com"><img src={emailIcon} alt="Email" /></a> 
+          <a href="mailto:shreyaskaldate19@gmail.com">shreyaskaldate19@gmail.com</a>
+        </div>
       </div>
       <Form></Form>
     </Container>

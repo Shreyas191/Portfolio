@@ -41,6 +41,7 @@ export const Container = styled.section`
     font-size: 1.8rem;
     letter-spacing: 0.1rem;
     font-weight: 500;
+    text-align: justify
   }
   
   
@@ -48,7 +49,7 @@ export const Container = styled.section`
   .about-image{
     text-align: center;
    img{
-     margin-top: 2rem;
+     margin-top: 8rem;
      width: 75%;
      filter: grayscale(0);
      transition: filter 0.5s;
