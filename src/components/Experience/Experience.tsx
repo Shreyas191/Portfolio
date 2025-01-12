@@ -13,7 +13,7 @@ const experiences = [
     role: "Java Developer",
     company: "Pie Infocom Pvt. Ltd",
     duration: "Nov 2021 - Dec 2021",
-    description: "In addition to the project completion, User actively participated in the design and development phases, identifying and resolving key issues in the application. They demonstrated a solid understanding of core Java concepts such as object-oriented programming, data structures, and algorithms, and effectively applied these principles in real-world scenarios. By leveraging industry-standard tools and frameworks, User contributed to the project's overall success and ensured a high-quality, functional outcome. Through this experience, they developed problem-solving strategies that allowed them to optimize performance and enhance the application's scalability.",
+    description: "In a focused 45-day period, I gained practical expertise in Java programming by successfully completing a project that applied my newly acquired knowledge. I tackled real-world challenges by utilizing core Java concepts like object-oriented programming, collections, and multithreading. Throughout the project, I provided valuable recommendations for optimization and problem-solving, refining my skills in debugging and performance enhancement. This hands-on experience significantly boosted my confidence in Java development and strengthened my ability to contribute effectively to development teams.",
   },
 ];
 
