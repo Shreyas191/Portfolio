@@ -1,6 +1,6 @@
 # Portfolio of Shreyas Kaldate
 
-<img src ="https://github.com/CodeShreyas/CodeShreyas/blob/5920a79f4c5977332a67caf91125241cf0fc46b5/www.Shreyassingh.in.png" />
+<img src ="[https://github.com/CodeShreyas/CodeShreyas/blob/5920a79f4c5977332a67caf91125241cf0fc46b5/www.Shreyassingh.in.png](https://github.com/Shreyas191/Portfolio/blob/main/portfolio.png)" />
  
 This project was created with CRA (Create React App)
 
