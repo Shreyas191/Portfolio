@@ -49,13 +49,12 @@ export const ExperienceItem = styled.div<ExperienceItemProps>`
   margin: 1.5rem 0;
   margin-top: 2rem;
   padding: 1.5rem;
-  background: rgba(72, 53, 53, 0.1);
+  background-color: #2b2b2b;
   border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 8px;
   animation: ${({ index }) => (index % 2 === 0 ? fadeInUp : fadeInDown)} 1s ease-out;
   animation-delay: ${({ index }) => index * 0.2}s;
   animation-fill-mode: backwards;
-
   h3 {
     font-size: 2rem;
     margin-bottom: 0.5rem;
@@ -74,9 +73,8 @@ export const ExperienceItem = styled.div<ExperienceItemProps>`
     text-align: justify;
   }
 
-  &:hover {
-    background: rgba(255, 255, 255, 0.2);
-    transform: scale(1.02);
-    transition: all 0.3s ease;
+   &:hover{
+        transform: translateY(-5px);
+        background-color: var(--pink);
   }
 `;
