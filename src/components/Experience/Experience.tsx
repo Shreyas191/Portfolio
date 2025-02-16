@@ -4,7 +4,7 @@ import ScrollAnimation from "react-animate-on-scroll";
 
 const experiences = [
   {
-    role: "Software Engineer",
+    role: "SDE-I",
     company: "Jio Platforms Limited",
     duration: "Jan 2024 - Present",
     description: "Developed and maintained backend services using Java and Spring Boot, focusing on building efficient REST APIs and implementing a microservices architecture. Utilized Hibernate ORM and Spring Data JPA for optimal database management, while OpenFeign facilitated smooth communication between services. Integrated Spring Boot Security with OAuth2 to ensure robust authentication and authorization. Regularly diagnosed and fixed bugs to enhance system stability and ensure seamless operation."
