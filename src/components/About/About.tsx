@@ -21,15 +21,14 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-          I am a Software Engineer with 1+ year of experience, currently working at Jio Platforms Limited. My primary focus is backend development, where I specialize in Java, Spring Boot, and Microservices. I have hands-on experience in designing and implementing REST APIs, which are essential for scalable and efficient backend systems. My work at Jio involves applying these technologies to build robust services that meet high-performance standards.</p>
+          I am a Software Developer with a passion for building scalable and high-performing applications. With over a year of experience at Jio Platforms Limited, I specialize in frontend development using Angular, crafting dynamic and responsive user interfaces that enhance user experiences. I focus on developing interactive web applications with clean, maintainable code while seamlessly integrating them with backend services.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
-          <p>
-          I graduated with a Bachelor's degree in Computer Engineering in 2023, where I specialized in Artificial Intelligence (AI) and Machine Learning (ML). This academic foundation has provided me with a strong understanding of data structures, algorithms, and problem-solving techniques, which I apply in my day-to-day work. My coursework in AI and ML allowed me to explore innovative technologies, equipping me with the knowledge needed to work on complex, data-driven projects.</p>
+          <p>In addition to frontend development, I have hands-on experience in backend development using Java Spring Boot, where I have designed and implemented REST APIs and Microservices Architecture. I have worked on developing secure, efficient, and scalable backend solutions, ensuring smooth communication between services. My ability to work across both frontend and backend technologies enables me to contribute effectively to full-stack development, optimizing performance and maintainability.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
-          My technical skill set includes proficiency in languages such as C, C++, Java, and tools like Spring Boot, Microservices, REST APIs, MySQL, and Oracle SQL. I am passionate about leveraging these skills to build efficient backend systems and solve challenging problems. Through my work and continuous learning, I aim to stay updated with industry trends and contribute to the development of high-quality software solutions.</p>
+          I hold a Bachelor's degree in Computer Engineering (AI & ML Honors), completed in 2023. My technical expertise includes C, C++, Java, Spring Boot, REST APIs, Microservices, HTML, CSS, JavaScript, Bootstrap, Angular, MySQL, and Oracle SQL. Always eager to learn and explore new technologies, I strive to push boundaries and develop impactful software solutions. </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
           <h3>Here are my main skills:</h3>
