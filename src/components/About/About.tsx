@@ -21,7 +21,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-          I am a Software Engineer with 1 year of experience, currently working at Jio Platforms Limited. My primary focus is backend development, where I specialize in Java, Spring Boot, and Microservices. I have hands-on experience in designing and implementing REST APIs, which are essential for scalable and efficient backend systems. My work at Jio involves applying these technologies to build robust services that meet high-performance standards.</p>
+          I am a Software Engineer with 1+ year of experience, currently working at Jio Platforms Limited. My primary focus is backend development, where I specialize in Java, Spring Boot, and Microservices. I have hands-on experience in designing and implementing REST APIs, which are essential for scalable and efficient backend systems. My work at Jio involves applying these technologies to build robust services that meet high-performance standards.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
