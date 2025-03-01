@@ -7,7 +7,7 @@ const experiences = [
     role: "SDE-I",
     company: "Jio Platforms Limited",
     duration: "Jan 2024 - Present",
-    description: "Developed and maintained backend services using Java and Spring Boot, focusing on building efficient REST APIs and implementing a microservices architecture. Utilized Hibernate ORM and Spring Data JPA for optimal database management, while OpenFeign facilitated smooth communication between services. Integrated Spring Boot Security with OAuth2 to ensure robust authentication and authorization. Regularly diagnosed and fixed bugs to enhance system stability and ensure seamless operation."
+    description: "Developed the frontend using Angular and the backend with Spring Boot for Jio’s CloudXp project, focusing on creating seamless integration between the two. I designed and implemented RESTful APIs in Spring Boot, ensuring efficient communication between the frontend and backend systems. My work involved optimizing Angular components and state management, significantly enhancing application performance and the overall user experience. Additionally, I utilized Spring Data JPA for efficient database interaction, implemented Spring AOP for logging and transaction management, and leveraged Spring Boot Actuator to monitor and manage application health and metrics."
   },
   {
     role: "Java Developer",
