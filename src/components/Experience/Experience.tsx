@@ -8,12 +8,12 @@ const experiences = [
     company: "Jio Platforms Limited",
     duration: "Jan 2024 - Present",
     description: [
-      "Contributed to the Domain Analytics module of the Jio CloudXp platform, building interactive dashboards to visualize cloud resource usage and performance insights.",
-      "Developed dynamic, responsive front-end interfaces using Angular, HTML5, CSS3, and JavaScript, improving usability and engagement.",
-      "Built modular Angular components, services, and custom pipes, following clean architecture and component-based design principles.",
-      "Integrated RESTful APIs using Angular HttpClient and handled asynchronous data streams with RxJS for real-time analytics.",
-      "Used Git for version control and collaborated with team members through Azure DevOps for task tracking, code reviews, and sprint planning.",
-      "Participated in Agile ceremonies, working closely with cross-functional teams to ensure timely delivery and quality of analytics features."
+      "* Contributed to the Domain Analytics module of the Jio CloudXp platform, building interactive dashboards to visualize cloud resource usage and performance insights.",
+      "* Developed dynamic, responsive front-end interfaces using Angular, HTML5, CSS3, and JavaScript, improving usability and engagement.",
+      "* Built modular Angular components, services, and custom pipes, following clean architecture and component-based design principles.",
+      "* Integrated RESTful APIs using Angular HttpClient and handled asynchronous data streams with RxJS for real-time analytics.",
+      "* Used Git for version control and collaborated with team members through Azure DevOps for task tracking, code reviews, and sprint planning.",
+      "* Participated in Agile ceremonies, working closely with cross-functional teams to ensure timely delivery and quality of analytics features."
     ]
     ,
   },
@@ -22,12 +22,12 @@ const experiences = [
     company: "Pie Infocom Pvt. Ltd",
     duration: "Nov 2021 - Dec 2021",
     description: [
-      "Developed and deployed RESTful APIs using Spring Boot, enabling efficient communication between microservices.",
-      "Implemented a microservices architecture with Spring Data JPA, Hibernate, and MySQL, ensuring scalable and modular service design.",
-      "Used Postman for API testing and Swagger for auto-generating interactive API documentation.",
-      "Containerized services using Docker, ensuring consistent environments and simplifying deployment workflows.",
-      "Followed SOLID principles and clean architecture practices, using service and repository layers for maintainability.",
-      "Optimized backend logic and database queries, leading to a 20% increase in system efficiency and reduced response time."
+      "* Developed and deployed RESTful APIs using Spring Boot, enabling efficient communication between microservices.",
+      "* Implemented a microservices architecture with Spring Data JPA, Hibernate, and MySQL, ensuring scalable and modular service design.",
+      "* Used Postman for API testing and Swagger for auto-generating interactive API documentation.",
+      "* Containerized services using Docker, ensuring consistent environments and simplifying deployment workflows.",
+      "* Followed SOLID principles and clean architecture practices, using service and repository layers for maintainability.",
+      "* Optimized backend logic and database queries, leading to a 20% increase in system efficiency and reduced response time."
     ]
     ,
   },
