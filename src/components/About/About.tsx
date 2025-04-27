@@ -21,15 +21,15 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-          I am a Software Developer with a passion for building scalable and high-performing applications. With over a year of experience at Jio Platforms Limited, I specialize in frontend development using Angular, crafting dynamic and responsive user interfaces that enhance user experiences. I focus on developing interactive web applications with clean, maintainable code while seamlessly integrating them with backend services.</p>
+          I'm a passionate and results-driven Software Engineer with experience in building scalable backend systems and dynamic frontend applications. I specialize in Java, Spring Boot, Angular, and modern web technologies, with a strong foundation in microservices architecture, RESTful APIs, and responsive UI development. During my time as a Java Developer Intern, I worked on an Online Cosmetic Store project where I developed and optimized backend services using Spring Boot, Spring Data JPA, Hibernate, and MySQL, leading to a 20% improvement in system efficiency. I also streamlined development, testing, and deployment processes by leveraging tools like Postman, Swagger, and Docker.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
-          <p>In addition to frontend development, I have hands-on experience in backend development using Java Spring Boot, where I have designed and implemented REST APIs and Microservices Architecture. I have worked on developing secure, efficient, and scalable backend solutions, ensuring smooth communication between services. My ability to work across both frontend and backend technologies enables me to contribute effectively to full-stack development, optimizing performance and maintainability.</p>
+          <p>Currently, I am working as an SDE-I at Jio Platforms, where I contribute to the Domain Analytics module of the CloudXp platform. I design and develop data-driven UI dashboards using Angular, HTML, CSS, and JavaScript, integrating APIs and visualizing cloud usage data to support business insights. I collaborate closely with cross-functional teams in an Agile environment, utilizing Git and Azure DevOps for efficient development workflows. Eager to continuously learn and grow, I am particularly passionate about building full-stack applications and solving real-world problems with clean, maintainable code.</p>
         </ScrollAnimation>
-        <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
+        {/* <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
           I hold a Bachelor's degree in Computer Engineering (AI & ML Honors), completed in 2023. My technical expertise includes C, C++, Java, Spring Boot, REST APIs, Microservices, HTML, CSS, JavaScript, Bootstrap, Angular, MySQL, and Oracle SQL. Always eager to learn and explore new technologies, I strive to push boundaries and develop impactful software solutions. </p>
-        </ScrollAnimation>
+        </ScrollAnimation> */}
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
           <h3>Here are my main skills:</h3>
         </ScrollAnimation>

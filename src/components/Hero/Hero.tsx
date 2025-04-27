@@ -19,7 +19,7 @@ export function Hero() {
           <h1>Shreyas Kaldate</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Software Development Engineer - I</h3>
+          <h3>SDE | Full Stack Developer | Tech Enthusiast</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
           <p className="small-resume">1+ Year of Experience</p>
