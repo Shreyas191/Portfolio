@@ -18,7 +18,7 @@ const experiences = [
     ,
   },
   {
-    role: "Java Developer",
+    role: "Java Developer Intern",
     company: "Pie Infocom Pvt. Ltd",
     duration: "Nov 2021 - Dec 2021",
     description: [
