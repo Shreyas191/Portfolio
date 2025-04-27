@@ -55,6 +55,7 @@ export const ExperienceItem = styled.div<ExperienceItemProps>`
   animation: ${({ index }) => (index % 2 === 0 ? fadeInUp : fadeInDown)} 1s ease-out;
   animation-delay: ${({ index }) => index * 0.2}s;
   animation-fill-mode: backwards;
+
   h3 {
     font-size: 2rem;
     margin-bottom: 0.5rem;
@@ -73,8 +74,20 @@ export const ExperienceItem = styled.div<ExperienceItemProps>`
     text-align: justify;
   }
 
-   &:hover{
-        transform: translateY(-5px);
-        background-color: var(--pink);
+  ul {
+    padding-left: 1.5rem; /* Add padding for bullets */
+    margin-top: 1rem;     /* Top margin for spacing */
+    text-align: left;     /* Align bullets properly */
+  }
+
+  li {
+    margin-bottom: 0.8rem; /* Space between bullet points */
+    line-height: 1.6;
+    color: #ecf0f1;
+  }
+
+  &:hover {
+    transform: translateY(-5px);
+    background-color: var(--pink);
   }
 `;
