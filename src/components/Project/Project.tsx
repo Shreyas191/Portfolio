@@ -116,7 +116,7 @@ export function Project() {
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
               </svg>
               <div className="project-links">
-                <a href="https://github.com/Shreyas191/Gym-Portal" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Shreyas191/Online-Gym-Portal" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
               </div>
@@ -127,7 +127,7 @@ export function Project() {
             </div>
             <footer>
               <ul className="tech-list">
-                <li>React JS</li>
+                <li>Angular</li>
                 <li>Spring Boot</li>
                 <li>MySQL</li>
               </ul>
