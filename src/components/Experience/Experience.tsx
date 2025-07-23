@@ -6,7 +6,7 @@ const experiences = [
   {
     role: "SDE-I",
     company: "Jio Platforms Limited",
-    duration: "Jan 2024 - Present",
+    duration: "Jan 2024 - July 2025",
     description: [
       "* Contributed to the Domain Analytics module of the Jio CloudXp platform, building interactive dashboards to visualize cloud resource usage and performance insights.",
       "* Developed dynamic, responsive front-end interfaces using Angular, HTML5, CSS3, and JavaScript, improving usability and engagement.",
